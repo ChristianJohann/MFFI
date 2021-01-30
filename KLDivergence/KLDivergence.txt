@@ -1,0 +1,11 @@
+Name of QuantLet : 'KLDivergence'
+
+Published in : 'Mathematical Foundations for Finance and Insurance' 
+
+Description : 'calculates the Kullback-Leibler divergence from a distribution function to a reference distribution'
+
+Keywords : 'KL, Kullback-Leibler, relative entropy, distribution function'
+
+Author : 'Christian Liegl'
+
+Submitted : Sat, Jan 30 2021
