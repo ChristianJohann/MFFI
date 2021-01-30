@@ -1,3 +1,4 @@
+
 Name of QuantLet : 'KLDivergence'
 
 Published in : 'Mathematical Foundations for Finance and Insurance' 
@@ -9,3 +10,5 @@ Keywords : 'KL, Kullback-Leibler, relative entropy, distribution function'
 Author : 'Christian Liegl'
 
 Submitted : Sat, Jan 30 2021
+
+Output : "numeric value"
