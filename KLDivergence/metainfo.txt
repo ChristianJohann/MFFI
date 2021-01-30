@@ -1,4 +1,3 @@
-
 Name of QuantLet : 'KLDivergence'
 
 Published in : 'Mathematical Foundations for Finance and Insurance' 
@@ -10,5 +9,10 @@ Keywords : 'KL, Kullback-Leibler, relative entropy, distribution function'
 Author : 'Christian Liegl'
 
 Submitted : Sat, Jan 30 2021
+
+Input:
+- p: numpy array specifying the reference distribution
+- q: numpy array specifying the alternative dsitribution
+- base: optional argument which specifies the base of the logarithm (e.g., 2 returns KLD in bits)
 
 Output : "numeric value"
