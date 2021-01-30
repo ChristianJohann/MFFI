@@ -1,1 +1,18 @@
+Name of QuantLet : 'JSDistance'
 
+Published in : 'Mathematical Foundations for Finance and Insurance' 
+
+Description : 'calculates the Jenson-Shannon distance between two distributions'
+
+Keywords : 'Jensen, Shannon, Jensen-Shannon distance, distance, metric'
+
+Author : 'Christian Liegl'
+
+Submitted : Sat, Jan 30 2021
+
+Input:
+- p: numpy array specifying one of two distributions
+- q: numpy array specifying the other distribution
+- base: optional argument which specifies the base of the logarithm
+
+Output : 'numeric value'
