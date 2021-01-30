@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 from scipy.spatial import distance
 
 def JSdistance(p, q, base = None):
@@ -12,4 +6,3 @@ def JSdistance(p, q, base = None):
     else:
         output = distance.jensenshannon(p,q)
     return output
-
